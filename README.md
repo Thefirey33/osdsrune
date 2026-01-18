@@ -12,4 +12,4 @@ After cloning Kristal to your system, use `love .` in the `Kristal/` directory t
 
 ## P.S.
 
-To clone the mod to the `Kristal` mod loader, copy all the folders EXCEPT from the `Kristal/` folder to `Kristal/mods` to run the modification.
+To clone the mod to the `Kristal` mod loader, copy all the folders EXCEPT from the `Kristal/` folder to `Kristal/mods/osdsrune` to run the modification.
