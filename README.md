@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 iconashot!
 (osds-rune)
 ---
@@ -54,6 +55,8 @@ make run
 ```
 to run the game.
 =======
+=======
+>>>>>>> 162bf48ba2aab0f4751a87f85a7072b4fa000846
 # OSDS-Rune
 
 This is a mod for deltarune using the Kristal mod loader. It is generally a combination of all the ideas put together on the OSDS.
@@ -69,4 +72,7 @@ After cloning Kristal to your system, use `love .` in the `Kristal/` directory t
 ## P.S.
 
 To clone the mod to the `Kristal` mod loader, copy all the folders EXCEPT from the `Kristal/` folder to `Kristal/mods/osdsrune` to run the modification.
+<<<<<<< HEAD
+>>>>>>> 162bf48ba2aab0f4751a87f85a7072b4fa000846
+=======
 >>>>>>> 162bf48ba2aab0f4751a87f85a7072b4fa000846
